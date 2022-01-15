@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 
-![/Oybek's github stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov)
-
 [![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
 
 ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true)
 
 OybekKayumov
+outrun
+
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
