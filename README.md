@@ -17,12 +17,11 @@ Here are some ideas to get you started:
 
 ### 🛠 Languages and Tools
 
-[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;][vscode]
-[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;][git]
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;][github]
-[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;][html]
-[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;][css]
----
+[![Visual Studio Code](https://img.shields.io/badge/-VScode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;]
+[![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;]
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;]
+[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;]
+[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;]
 
 
 ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)
