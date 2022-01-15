@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 ![/Oybek's github stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov)
 
 [![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
+
+![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true)
+
+OybekKayumov
