@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 [![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
 
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=OybekKayumov&repo=dev.to)](https://github.com/OybekKayumov/dev.to)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
+
+![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)
