@@ -24,4 +24,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
 
-
+<p align="center"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/oybekkayumov/count.svg" />
+  </br>
+      <img align="center" alt="GIF" src="https://github.com/oybekkayumov/oybekkayumov/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+</p>
