@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 👀 I’m interested in ...
-- 🔭 I’m currently working on Ruby
-- 🌱 I’m currently learning HTML, CSS, Javascript
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently full-stack web development at Microverse
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌴 I’m looking for help with JavaScript, React and Redux
+- 👯 I’m looking to collaborate on on any exciting project
+- 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
 
 ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)
 
