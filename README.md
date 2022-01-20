@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
+              https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov&layout=compact&theme=outrun"
+
 
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="Oybek Kayumov" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=OybekKayumovl&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Oybek Kayumov" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov&layout=compact&theme=vue"</p>
 
