@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌴 I’m looking for help with JavaScript, React and Redux
 - 👯 I’m looking to collaborate on on any exciting project
 - ⚡ Fun fact: Practice makes prefect
-- ⚡ Fun fact: Еhe best investment is an investment for children
+- ⚡ Fun fact: The best investment is an investment for children
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
 
 ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)
@@ -26,6 +26,16 @@ Here are some ideas to get you started:
 <!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="Oybek Kayumov" /></p> -->
 
 <!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov&layout=compact&theme=vue"</p> -->
+
+<p align="center">&nbsp;
+ 
+| Activities |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=tokyonight" alt="OybekKayumov" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&show_icons=true&theme=tokyonight&layout=compact" alt="OybekKayumov" />|
+</p>
+
+<hr>
+
 
 
 
