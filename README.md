@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 🌴 I’m looking for help with JavaScript, React and Redux
 - 👯 I’m looking to collaborate on on any exciting project
-- 📫 How to reach me: ![LinkedIn](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
 
 ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)
 
