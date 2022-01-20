@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  
 | Activities |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="Oybek Kayumov" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&show_icons=true&theme=outrun&layout=compact" alt="Oybek Kayumov" width="400"/>|
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="Oybek Kayumov" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&show_icons=true&theme=outrun&layout=compact" alt="Oybek Kayumov" width="410"/>|
 </p>
 
 <hr>
