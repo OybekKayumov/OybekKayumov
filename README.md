@@ -9,16 +9,33 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 👀 I’m interested in ...
+- 👀 I’m interested in JavaScript, React, Ruby, Rails, Databases and Networking
 - 🔭 I’m currently full-stack web development at Microverse
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 🌴 I’m looking for help with JavaScript, React and Redux
 - 👯 I’m looking to collaborate on on any exciting project
+- ⚡ Fun fact: Practice makes prefect
+- ⚡ Fun fact: Еhe best investment is an investment for children
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
 
 ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
+
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="Oybek Kayumov" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=OybekKayumovl&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Oybek Kayumov" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov&layout=compact&theme=vue"</p>
+
+
+
+
+
+
+
+
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
