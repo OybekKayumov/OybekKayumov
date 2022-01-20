@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 
-![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
+![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
