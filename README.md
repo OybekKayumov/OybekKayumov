@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The best investment is an investment for children
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
 
-![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun)
+<!-- ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats) -->
 
 <p align="center">&nbsp;
  
 | Activities |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="OybekKayumov" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&show_icons=true&theme=outrun&layout=compact" alt="OybekKayumov" />|
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="Oybek Kayumov" width="510" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&show_icons=true&theme=outrun&layout=compact" alt="Oybek Kayumov" />|
 </p>
 
 <hr>
