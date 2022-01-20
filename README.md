@@ -22,16 +22,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats)
 
-
-<!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="Oybek Kayumov" /></p> -->
-
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov&layout=compact&theme=vue"</p> -->
-
 <p align="center">&nbsp;
  
 | Activities |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=tokyonight" alt="OybekKayumov" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&show_icons=true&theme=tokyonight&layout=compact" alt="OybekKayumov" />|
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun" alt="OybekKayumov" width="410" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&show_icons=true&theme=outrun&layout=compact" alt="OybekKayumov" />|
 </p>
 
 <hr>
