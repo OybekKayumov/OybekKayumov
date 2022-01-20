@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 🌴 I’m looking for help with JavaScript, React and Redux
 - 👯 I’m looking to collaborate on on any exciting project
-- ⚡ Fun fact: Practice makes prefect
+- ⚡ Fun fact: Practice makes perfect
 - ⚡ Fun fact: The best investment is an investment for children
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov-54a8485b/)
 
