@@ -1,4 +1,3 @@
-![About](https://user-images.githubusercontent.com/85465559/164246328-6dbdeac4-d112-429a-b0ef-4b134568c245.mp4)
 
 ### 👋 Hi, I'm Oybek Kayumov 
 ![](https://visitor-badge.glitch.me/badge?page_id=OybekKayumov.OybekKayumov)
