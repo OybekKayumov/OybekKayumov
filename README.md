@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 👀 I’m interested in HTML, CSS, JavaScript, React, Ruby, Rails, Databases and Networking
+- 👀 I’m interested in HTML, CSS, JavaScript, React, Redux, Ruby, Rails, Databases and Networking
 - 🔭 I’m currently full-stack web development student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Redux
 - 🌴 I’m looking for help with JavaScript, React and Redux
