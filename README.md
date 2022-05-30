@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
 
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=juletx&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
+
 
 
 
