@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://github.com/OybekKayumov/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord" alt="GitHub Trophies" /></a></p>
 
 <h2 align="center">Weekly Top Languages</h2>
-<p align="center"><a href="https://github.com/OybekKayumov/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=OybekKayumov&layout=compact&langs_count=10&theme=discord&custom_title=Weekly Top Languages" alt="Weekly Top Languages" /></a></p>
+<p align="center"><a href="https://github.com/OybekKayumov/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=OybekKayumov&theme=discord&custom_title=Weekly Top Languages" alt="Weekly Top Languages" /></a></p>
 
 <h2 align="center">Skills</h2>
 
