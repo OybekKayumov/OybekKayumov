@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <hr>
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=OybekKayumov)](https://github.com/OybekKayumov/github-profile-trophy)
+
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
