@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">GitHub Trophies</h2>
 
-<p align="center"><a href="https://github.com/OybekKayumov/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&column=4&margin-w=15&margin-h=15&theme=discord" alt="GitHub Trophies" /></a></p>
+<p align="center"><a href="https://github.com/OybekKayumov/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord" alt="GitHub Trophies" /></a></p>
 
 
 
