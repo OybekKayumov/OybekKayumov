@@ -34,7 +34,11 @@ Here are some ideas to get you started:
 <hr>
 
 
+https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=OybekKayumov)](https://github.com/OybekKayumov/github-profile-trophy)
+
+
 
 
 
