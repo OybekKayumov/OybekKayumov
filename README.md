@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/OybekKayumov/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord" alt="GitHub Trophies" /></a></p>
 
+<h2 align="center">Weekly Top Languages</h2>
+<p align="center"><a href="https://github.com/OybekKayumov/github-readme-stats" target="blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=OybekKayumov&layout=compact&langs_count=10&theme=discord&custom_title=Weekly Top Languages" alt="Weekly Top Languages" /></a></p>
 
+<h2 align="center">Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,6 +51,9 @@ Here are some ideas to get you started:
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/React-2D8CFF?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-2D8CFF?style=for-the-badge&logo=Redux&logoColor=white)
+![sqldeveloper](https://img.shields.io/badge/sqldeveloper-2D8CFF?style=for-the-badge&logo=Redux&logoColor=white)
+![PostgrSQL](https://img.shields.io/badge/PostgrSQL-2D8CFF?style=for-the-badge&logo=Redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-2D8CFF?style=for-the-badge&logo=react&logoColor=white)
 
 ![Jest](https://img.shields.io/badge/Jest-FFF0E5?style=for-the-badge&logo=jest&logoColor=green)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
