@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👀 I’m interested in HTML, CSS, JavaScript, React, Redux, Ruby, Rails, Databases and Networking
 - 🔭 I’m currently full-stack web development student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Redux, SQL, Ruby
-- 🌴 I’m looking for help with JavaScript, React and Redux
+- 🌴 I’m looking for help with JavaScript, React and Redux, SQL, Ruby, Ruby on Rails
 - 👯 I’m looking to collaborate on any exciting project
 - ⚡ Fun fact: Practice makes perfect
 - ⚡ Fun fact: The best investment is an investment for children
