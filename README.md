@@ -18,17 +18,18 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any exciting project
 - ⚡ Fun fact: Practice makes perfect
 - ⚡ Fun fact: The best investment is an investment for children
-<!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov/) -->
-
 - 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/KayumovOybek?style=social)](https://twitter.com/KayumovOybek)
 [![Linkedin](https://img.shields.io/badge/-oybek_kayumov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oybek-kayumov/)](https://www.linkedin.com/in/oybek-kayumov/)
 [![GitHub](https://img.shields.io/github/followers/OybekKayumov?label=follow&style=social)](https://github.com/OybekKayumov)
 
+- 💼 You can check out my [portfolio](https://oybekkayumov.github.io/portfolio-project/) 
+
+<!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov/) -->
 <!-- ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats) -->
 
-- 💼 You can check out my [portfolio](https://oybekkayumov.github.io/portfolio-project/) 
+
 
 <p align="center">&nbsp;
  
