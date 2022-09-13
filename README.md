@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 👀 I’m interested in HTML, CSS, JavaScript, React, Redux, Ruby, Rails, Databases and Networking
-- 🔭 I’m currently full-stack web development student at ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭 I finished [Microverse](https://www.microverse.org/), an online school for remote software developers ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Redux, SQL, Ruby, Ruby on Rails
 - 🌴 I’m looking for help with JavaScript, React and Redux, SQL, Ruby, Ruby on Rails
 - 👯 I’m looking to collaborate on any exciting project
