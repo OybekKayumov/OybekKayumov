@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The best investment is an investment for children
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov/)
 
-- 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/mek_zela?style=social)](https://twitter.com/KayumovOybek)
-[![Linkedin](https://img.shields.io/badge/-kayumov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oybek-kayumov/)](https://www.linkedin.com/in/thaianebraga/)
+- 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/KayumovOybek?style=social)](https://twitter.com/KayumovOybek)
+[![Linkedin](https://img.shields.io/badge/-oybek_kayumov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oybek-kayumov/)](https://www.linkedin.com/in/oybek-kayumov/)
 [![GitHub](https://img.shields.io/github/followers/OybekKayumov?label=follow&style=social)](https://github.com/OybekKayumov)
 
 <!-- ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun) -->
