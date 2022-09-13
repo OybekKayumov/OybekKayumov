@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/github/followers/OybekKayumov?label=follow&style=social)](https://github.com/OybekKayumov)
 
 - 💼 You can check out my [portfolio](https://oybekkayumov.github.io/portfolio-project/) 
+- ✔️  I am available for remote opportunities.
 
 <!-- - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oybek-kayumov/) -->
 <!-- ![Oybek's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun) -->
