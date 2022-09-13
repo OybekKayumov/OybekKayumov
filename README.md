@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats) -->
 
+- 💼 You can check out my [portfolio](https://oybekkayumov.github.io/portfolio-project/) 
+
 <p align="center">&nbsp;
  
 | Activities |   Languages |
