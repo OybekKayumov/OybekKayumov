@@ -2,8 +2,10 @@
 ### 👋 Hi, I'm Oybek Kayumov 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=OybekKayumov.OybekKayumov) -->
 
-TLDR; REPLACE THE DOMAIN NAME
-ie. 'visitor-badge.glitch.me/badge?page_id=OybekKayumov' --> 'https://vbr.wocr.tk/badge?page_id=OybekKayumov'
+<!-- TLDR; REPLACE THE DOMAIN NAME -->
+<!-- ie. 'visitor-badge.glitch.me/badge?page_id=OybekKayumov' --> 'https://vbr.wocr.tk/badge?page_id=OybekKayumov' -->
+visitor-badge.glitch.me/badge?page_id=OybekKayumov
+https://vbr.wocr.tk/badge?page_id=OybekKayumov
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OybekKayumov&label=Views&color=blue&style=plastic" alt="Oybek Kayumov" /></p>
 
