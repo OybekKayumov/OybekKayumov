@@ -1,6 +1,7 @@
 
 ### 👋 Hi, I'm Oybek Kayumov 
-![](https://visitor-badge.glitch.me/badge?page_id=OybekKayumov.OybekKayumov)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=OybekKayumov.OybekKayumov) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OybekKayumov&label=Views&color=blue&style=plastic" alt="Oybek Kayumov" /></p>
 
 <!--
 **OybekKayumov/OybekKayumov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
