@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/OybekKayumov/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord" alt="GitHub Trophies" /></a></p>
 -->
-<h1 align="center">Hi 👋, I'm Oybek Kayumov</h1>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
