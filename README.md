@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OybekKayumov)](https://github.com/OybekKayumov/github-readme-stats) -->
 
 
-
+<!--
 <p align="center">&nbsp;
  
 | Activities |   Languages |
@@ -47,6 +47,29 @@ Here are some ideas to get you started:
 <h2 align="center">GitHub Trophies</h2>
 
 <p align="center"><a href="https://github.com/OybekKayumov/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord" alt="GitHub Trophies" /></a></p>
+-->
+<h1 align="center">Hi 👋, I'm Oybek Kayumov</h1>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&theme=outrun&layout=compact"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord"/>
+</p>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
