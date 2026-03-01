@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord&no-frame=true&margin-w=10"/>
 </p>
 
 
