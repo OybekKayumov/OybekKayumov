@@ -52,22 +52,14 @@ Here are some ideas to get you started:
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=OybekKayumov&show_icons=true&theme=outrun"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OybekKayumov&theme=outrun&layout=compact"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OybekKayumov&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OybekKayumov&layout=compact&theme=tokyonight"/>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=discord"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=OybekKayumov&theme=tokyonight"/>
 </p>
 
 
