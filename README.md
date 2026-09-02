@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working HTML, CSS, JavaScript, React, Redux, SQL, Ruby, Ruby on Rails, PostgreSQL, MongoDB, Java
 - 🌴 I’m looking for collaborate with developers on JavaScript, React and Redux, SQL, Ruby, Ruby on Rails, Java
 - 👯 I’m looking to collaborate on any exciting project
-- ⚡ Fun fact: Practice makes perfect
+- ⚡ Fun fact: Practice makes progress (perfect)
 - ⚡ Fun fact: The best investment is an investment for children
 - 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/KayumovOybek?style=social)](https://twitter.com/KayumovOybek)
 [![Linkedin](https://img.shields.io/badge/-oybek_kayumov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oybek-kayumov/)](https://www.linkedin.com/in/oybek-kayumov/)
